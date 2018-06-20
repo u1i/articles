@@ -42,4 +42,4 @@ I hope this helps you understand both the concept of streaming APIS, the benefit
 
 [1] Important Note: If you're keen to try this yourself, please enable the `Content-Length` setting in API Manager as described in [this KB article](https://support.axway.com/kb/163662/language/en).
 
-[2] I'm using [ngrok](https://ngrok.com/) to expose the HTTP service running on my laptop to the internet, it's even giving me a HTTPS endpoint with a valid certificate - Streamdata requires this
+[2] I'm using [ngrok](https://ngrok.com/) to expose the HTTP service running on my laptop to the internet, it's even giving me an HTTPS endpoint with a valid certificate - Streamdata requires this
