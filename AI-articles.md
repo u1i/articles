@@ -61,7 +61,7 @@ Did you know that the cut-off point for GPT-4's training data was September 2021
 
 --
 
-### How Generative AI Rewired my Creative DNA
+### [How Generative AI Rewired my Creative DNA](https://www.linkedin.com/pulse/how-generative-ai-rewired-my-creative-dna-uli-hitzel/)
 
 If you've been using ChatGPT, you will have seen how AI language models can help us bring structure to our thoughts and ideas. What if we could build digital companions that collaborate and brainstorm together with you, help you take an idea from a vague concept to a detailed plan, and ultimately became an integral part of our creative process? That's exactly what I've been doing for the past two years – and this is my story of human-machine collaboration.
 
@@ -134,8 +134,7 @@ What happens when two AIs with distinct "personalities" and perspectives come to
 
 --
 
-### [AI, Everything, Everywhere, All at Once!
-](https://www.linkedin.com/pulse/ai-everything-everywhere-all-once-uli-hitzel/)
+### [AI, Everything, Everywhere, All at Once!](https://www.linkedin.com/pulse/ai-everything-everywhere-all-once-uli-hitzel/)
 
 The news is full of AI this and AI that. Yes – we definitely need to talk about how the world we know is changing because of AI. But can all those self-proclaimed AI experts please take a seat? We need to bring policy makers, educators, and actual AI experts to the table to make sure we're doing this right.
 
