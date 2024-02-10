@@ -8,7 +8,7 @@ It's great to see that OpenAI's language models are now getting some serious com
 
 ### [Are Artificial Language Sweeteners Hijacking AI-generated Text?](https://www.linkedin.com/pulse/artificial-language-sweeteners-hijacking-ai-generated-uli-hitzel-zjlzc/)
 
-https://www.linkedin.com/pulse/artificial-language-sweeteners-hijacking-ai-generated-uli-hitzel-zjlzc/
+Did you notice all these fluffy, overused words like 'unravel', 'delve into' and 'intricate' in every other text you read? It's likely that this text is AI-generated, which brings up some intriguing questions about the materials these language models have consumed as well as their programming on what constitutes 'good language.' Let's talk about language sensitivity, AI-generated text, and why some words can feel like too much seasoning on your fries.
 
 --
 
