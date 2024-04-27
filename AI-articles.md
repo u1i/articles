@@ -1,5 +1,9 @@
 # Uli's AI Articles
 
+### [Turning AI from Dry to Dreamy with a Magic Dial](https://www.linkedin.com/pulse/turning-ai-from-dry-dreamy-magic-dial-uli-hitzel-jdykc/)
+
+Can a simple tweak shift a language model from delivering facts to dreaming up stories? Adjusting this setting not only toggles between accuracy and creativity but also balances our need for reliable information with the desire for imaginative hallucinations. Let's look at how the temperature setting can change the way we use AI, making it either a source of inspiration or a reliable informant, depending on what we're looking for.
+
 ### [The Grand Duel: GPT-4 vs. Google's Gemini Ultra](https://www.linkedin.com/pulse/grand-duel-gpt-4-vs-googles-gemini-ultra-uli-hitzel-115xc/)
 
 It's great to see that OpenAI's language models are now getting some serious competition from companies like Google and their Gemini language models. Now – imagine a conversation between GPT-4 and this new AI powerhouse, how would they engage, how would they demonstrate their creativity, wit, and problem-solving skills? Read on to see how these two language models interact in an intriguing virtual tête-à-tête.
