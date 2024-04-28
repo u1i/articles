@@ -1,5 +1,9 @@
 # Uli's AI Articles
 
+### The AI Force Awakens
+
+Remember how OpenAI's GPT was the default choice for most AI projects? Now, the AI landscape has been flipped on its head in just a few months, with tech giants like Meta, Microsoft, Databricks, and Apple releasing their own open models. Let's look at how this new era of choice and accessibility is changing the way we build smart applications, why there is no one-size-fits-all, and how you can navigate this rapidly evolving landscape to find the best approach that fits your needs.
+
 ### [Turning AI from Dry to Dreamy with a Magic Dial](https://www.linkedin.com/pulse/turning-ai-from-dry-dreamy-magic-dial-uli-hitzel-jdykc/)
 
 Can a simple tweak shift a language model from delivering facts to dreaming up stories? Adjusting this setting not only toggles between accuracy and creativity but also balances our need for reliable information with the desire for imaginative hallucinations. Let's look at how the temperature setting can change the way we use AI, making it either a source of inspiration or a reliable informant, depending on what we're looking for.
