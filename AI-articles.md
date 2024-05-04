@@ -1,12 +1,26 @@
 # Uli's AI Articles
 
-### The AI Force Awakens
+### ["Unraveling the Intricate Tapestry of AI's Meticulous Verbosity"](https://www.linkedin.com/pulse/unraveling-intricate-tapestry-ais-meticulous-verbosity-uli-hitzel-7kbxc/)
+
+How is it possible that some of the best performing language models still struggle to communicate in a concise and coherent manner? Did you notice how much effort it takes to stop them from constantly apologizing, or from using those artificial language sweeteners like "unravel" and "delve into"? Let's talk about the data that is used to train these large language models, what you can do to make them communicate more clearly and directly, and why it feels like all of those LLMs went to the same school.
+
+--
+
+### [When an Entire Universe Fits Into a Shoe Box](https://www.linkedin.com/pulse/when-entire-universe-fits-shoe-box-uli-hitzel-cgnsc/)
+
+What if you could have a conversation with an AI about the content of a book? And, to be sure, it would be a book that you basically copy/paste into the chat with that language model. That's exactly what I did a while ago when testing out Anthropic's Claude 3 to see whether the 200k context window would stand up to the task of engaging with a large amount of text. Let's have a look at how that went.
+
+--
+
+### [The AI Force Awakens](https://www.linkedin.com/pulse/ai-force-awakens-uli-hitzel-nyvac/)
 
 Remember how OpenAI's GPT was the default choice for most AI projects? Now, the AI landscape has been flipped on its head in just a few months, with tech giants like Meta, Microsoft, Databricks, and Apple releasing their own open models. Let's look at how this new era of choice and accessibility is changing the way we build smart applications, why there is no one-size-fits-all, and how you can navigate this rapidly evolving landscape to find the best approach that fits your needs.
 
 ### [Turning AI from Dry to Dreamy with a Magic Dial](https://www.linkedin.com/pulse/turning-ai-from-dry-dreamy-magic-dial-uli-hitzel-jdykc/)
 
 Can a simple tweak shift a language model from delivering facts to dreaming up stories? Adjusting this setting not only toggles between accuracy and creativity but also balances our need for reliable information with the desire for imaginative hallucinations. Let's look at how the temperature setting can change the way we use AI, making it either a source of inspiration or a reliable informant, depending on what we're looking for.
+
+--
 
 ### [The Grand Duel: GPT-4 vs. Google's Gemini Ultra](https://www.linkedin.com/pulse/grand-duel-gpt-4-vs-googles-gemini-ultra-uli-hitzel-115xc/)
 
